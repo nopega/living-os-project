@@ -1,6 +1,7 @@
 # Data Analytics & BI Pipeline Project
 
 โปรเจกต์สำหรับสร้าง Data Pipeline ในการประมวลผลข้อมูลคำสั่งซื้อ การชำระเงิน และการจัดส่ง เพื่อนำไปทำเป็นแดชบอร์ดสรุปผลเชิงธุรกิจ (BI)
+data source : https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce?select=olist_order_payments_dataset.csv
 
 ---
 
