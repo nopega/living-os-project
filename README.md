@@ -44,6 +44,7 @@
 
 * ติดตั้ง Docker บนเครื่องคอมพิวเตอร์
 * ตรวจสอบให้แน่ใจว่าไฟล์ Service Account Key (`living-os-project-ac24a0a8cacb.json`) มีสิทธิ์เข้าถึง BigQuery
+* ตรวจสอบ ไฟล์ Service Account Key (`living-os-project-ac24a0a8cacb.json`) เเละ ไฟล์ .env ว่าอยู่ใน folder "pipeline" ไหม 
 
 ## Build Docker Image
 
