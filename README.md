@@ -47,7 +47,7 @@
 
 ## Build Docker Image
 
-สร้าง Environment จาก Dockerfile
+สร้าง Environment จาก "dockerfile"
 
 ```bash
 docker build -t data-pipeline-app .
